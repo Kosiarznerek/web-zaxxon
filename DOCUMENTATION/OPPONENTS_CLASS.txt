@@ -1,0 +1,24 @@
+            opp01: {
+                className: "Saucer",
+                leftTopPoint: new Point(1614.17, 3080.17),
+            },
+            opp02: {
+                className: "RadarTower",
+                leftTopPoint: new Point(1812.75, 3108.37),
+            },
+            opp03: {
+                className: "GunImplacement1",
+                leftTopPoint: new Point(1824.17, 2895.17),
+            },
+            opp04: {
+                className: "GunImplacement2",
+                leftTopPoint: new Point(1846.52, 3079.71),
+            },
+            opp05: {
+                className: "FuelTank",
+                leftTopPoint: new Point(2110.67, 2753.73),
+            },
+            opp06: {
+                className: "BaseMissiles",
+                leftTopPoint: new Point(2110.67, 2753.73),
+            },

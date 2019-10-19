@@ -1,0 +1,8 @@
+FuelTank.png			300
+BaseMissiles.png		150
+GunImplacement1.png		200/500(random)
+GunImplacement2.png		200/500(random)
+RadarTower			1000
+SpaceCraft.png			100+50*(level-1)
+Zaxxon				1000
+Saucer.png			0 -> It's impossible to kill because of it's low height
